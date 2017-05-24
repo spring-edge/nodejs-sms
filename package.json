@@ -1,0 +1,31 @@
+{
+  "name": "springedge",
+  "version": "1.0.0",
+  "description": "Node.js REST API SMS Library using Spring Edge",
+  "main": "lib/springedge.js",
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:spring-edge/nodejs-sms.git"
+  },
+  "keywords": [
+    "springedge",
+    "sms",
+    "nodejs",
+    "api",
+    "spring",
+    "edge",
+    "india",
+    "send"
+  ],
+  "author": "Spring Edge <contact@springedge.com> (https://www.springedge.com/)",
+  "contributors": [
+    "Spring Edge"
+  ],
+  "license": "BSD-2-Clause",
+  "homepage": "https://github.com/spring-edge/nodejs-sms",
+  "dependencies": {},
+  "devDependencies": {}
+}
