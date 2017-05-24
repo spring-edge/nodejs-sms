@@ -1,7 +1,7 @@
-SpringEdge REST API for Node.js
+SMS REST API for Node.js using Spring Edge
 ================================
 
-This repository contains A nodejs RestAPI package to send sms using Spring Edge APIs
+This repository contains A nodejs RestAPI package to send sms using Spring Edge (https://www.springedge.com) APIs
 
 Requirements
 ------------
