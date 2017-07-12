@@ -40,7 +40,7 @@ var params = {
   'body': 'test+message'
 };
 
-springedge.messages.send(params, function (err, response) {
+springedge.messages.send(params, 5000, function (err, response) {
   if (err) {
     return console.log(err);
   }
