@@ -24,12 +24,6 @@ Example of sending message:
 
 ```javascript
 var springedge = require('springedge');
-```
-
-```javascript
-// send sms
-
-var springedge = require('springedge');
 
 var params = {
   'apikey': '', // API Key
