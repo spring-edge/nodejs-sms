@@ -1,6 +1,6 @@
 //npm install springedge
 
-var springedge = require('springedge');
+var springedge = require('springedge')();
 
 var params = {
   'apikey': '636n033l3549o14yp1ljdti3t81rk11v5', //TEST API Key
