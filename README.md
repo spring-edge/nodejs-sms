@@ -31,7 +31,8 @@ var params = {
   'to': [
     '919019xxxxxxxx'  //Moblie Number
   ],
-  'body': 'test+message'
+  'body': 'test+message',
+  'format': 'json'
 };
 
 springedge.messages.send(params, 5000, function (err, response) {
@@ -40,8 +41,10 @@ springedge.messages.send(params, 5000, function (err, response) {
   }
   console.log(response);
 });
+```
 
 // Result:
+```
 {
   "groupID":xxxx,
   "MessageIDs":"xxxxx-x",
