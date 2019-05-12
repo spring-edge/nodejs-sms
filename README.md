@@ -31,7 +31,7 @@ var params = {
   'to': [
     '919019xxxxxxxx'  //Moblie Number
   ],
-  'body': 'test+message',
+  'message': 'test+message',
   'format': 'json'
 };
 
