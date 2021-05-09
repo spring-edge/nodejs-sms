@@ -31,7 +31,7 @@ var params = {
   'to': [
     '919019xxxxxxxx'  //Moblie Number
   ],
-  'message': 'test+message',
+  'message': 'Hello, This is a test message from spring edge',
   'format': 'json'
 };
 

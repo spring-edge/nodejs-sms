@@ -8,7 +8,7 @@ var params = {
   'to': [
     '9190xxxxxxxx'  //Mobile Numberss
   ],
-  'message': 'test message from node js'
+  'message': 'Hello, This is a test message from spring edge'
 };
 
 springedge.messages.send(params, 5000, function (err, response) {
