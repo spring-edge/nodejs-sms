@@ -52,7 +52,7 @@ springedge.messages.send(params, 5000, function (err, response) {
 }
 ```
 
-Or in case of an error:
+Or, in case of an error:
 
 ```javascript
 {
